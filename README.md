@@ -3,7 +3,7 @@ A single-channel pixel structure is used to obtain a gray image. So how are colo
 [[B,G,R]
  [G,R,BL]
  [R,BL,BL]]
-In the image I obtained with this sequence, only primary colors and black are used (R -> Red, G -> Green, B -> blue, BL -> Black). Ring problem occurred because compressions were applied for the images I uploaded. You can also get brown by using this sequence.
+In the image I obtained with this sequence, only primary colors and black are used (R -> Red, G -> Green, B -> blue, BL -> Black). Ring problem occurred because compressions were applied for the images I uploaded. You can also get brown by using this sequence. In addition, if you look at the last image from far enough, you will see that it looks like brown.
 Good work
 ![sarimtrakzoom1](https://user-images.githubusercontent.com/84848844/203142890-fed5095c-e565-4130-998d-3025ef36674b.png)
 
